@@ -1,0 +1,8 @@
+ function lib() {
+        var _windowContainer = null,
+        _guid = null,
+        _poll = this,
+        _name = '',
+        _store = null;
+
+        var header, panel;
